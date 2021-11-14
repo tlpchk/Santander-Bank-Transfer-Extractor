@@ -1,0 +1,9 @@
+url:
+  login: https://www.centrum24.pl/
+  transfers: https://www.centrum24.pl/centrum24-web/multi/history#/pfmExpenses?b=d&dp=a
+wait-timeout: 10000
+output-file: output/all-transfers-santander.csv
+user:
+  nik: ${SANTANDER_NIK}
+  password: ${SANTANDER_PASSWORD}
+  trust-token: ${SANTANDER_TRUST_TOKEN}
