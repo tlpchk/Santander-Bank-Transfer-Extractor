@@ -1,4 +1,4 @@
-#Santander transaction history extractor
+# Santander transaction history extractor
 
 As a consumer of [Santander Bank Polska](https://www.santander.pl/), I have possibility to assign categories to all of my transactions.
 This helps me monitor my expenses and see how much money I spend on items from different categories.
